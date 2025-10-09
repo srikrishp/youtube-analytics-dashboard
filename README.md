@@ -1,4 +1,4 @@
-# YouTube Analytics Dashboard
+# YouTube Trendcast Dashboard
 
 YouTube Analytics Dashboard is an open-source web application for exploring, visualizing, and understanding YouTube trends and insights. Built with React and Vite, this project provides interactive charts, prediction tools, and filtering options to help users analyze YouTube data in a user-friendly way.
 
